@@ -1,0 +1,15 @@
+# Large data files excluded from git - see README for how to regenerate from Hugging Face
+pr_commit_details.parquet
+data/pr_commit_details.parquet
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+data/.ipynb_checkpoints/
+
+# Duplicate/backup notebook
+notebookb09a693f66.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+__MACOSX/
